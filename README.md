@@ -29,6 +29,7 @@
 - **password:** Demo123456!
 
 ## โครงสร้างโฟลเดอร์ (Folder Structure)
+```text
 component-shop/
 ├── .vscode/
 │   └── extensions.json
