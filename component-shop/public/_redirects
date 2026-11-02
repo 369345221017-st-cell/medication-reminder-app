@@ -1,0 +1,2 @@
+# ส่งทุก path กลับไปที่ index.html ให้ Vue Router จัดการเอง (กัน 404 ตอนเปิด path ย่อยตรง ๆ หรือกด F5)
+/*    /index.html    200
